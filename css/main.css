@@ -5,21 +5,22 @@
     transform: translate(-50%, -50%);
 }
 
-#container
-{
+#container {
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
-#overlay
-{
+#overlay {
     font-family: "Arial Black", Gadget, sans-serif;
     z-index:100;
-    color:white;
     font-size:96px;
     font-weight:bold;
+}
+
+.biga {
+    color:white;
 }
 
 .biga a:link, a:visited { 
