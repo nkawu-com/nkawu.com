@@ -23,6 +23,6 @@
     color:white;
 }
 
-a.biga:link, a:visited { 
+a.biga:link, a.biga:visited { 
     text-decoration: none;
 }
