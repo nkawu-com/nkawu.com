@@ -29,6 +29,6 @@
     font-weight:bold;
 }
 
-#overlay a:visited { 
+.biga a:link, a:visited { 
     text-decoration: none;
 }
