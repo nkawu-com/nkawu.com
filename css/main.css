@@ -22,9 +22,9 @@
 
 #overlay
 {
-    font-family: "Impact, Charcoal, sans-serif";
+    font-family: Impact, Charcoal, sans-serif;
     z-index:100;
-    position:absolute;    
+    //position:absolute;    
     color:white;
     font-size:48px;
     font-weight:bold;
