@@ -1,8 +1,8 @@
 .centered {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #container
@@ -22,11 +22,9 @@
 
 #overlay
 {
-    //font-family: Impact, Charcoal, sans-serif;
     font-family: "Arial Black", Gadget, sans-serif;
     z-index:100;
-    //position:absolute;    
     color:white;
-    font-size:72px;
+    font-size:96px;
     font-weight:bold;
 }
