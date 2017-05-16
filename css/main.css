@@ -28,3 +28,7 @@
     font-size:96px;
     font-weight:bold;
 }
+
+#overlay a:link, a:visited { 
+    text-decoration: none;
+}
