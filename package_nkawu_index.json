@@ -1,21 +1,13 @@
 {
 	"packages": [
 		{
-			"name": "TFT 22 ILI9225",
+			"name": "Nkawu",
 			"maintainer": "Nkawu",
 			"websiteURL": "https://github.com/Nkawu",
 			"email": "support@nkawu.com",
-			"help": {
-				"online": "https://github.com/Nkawu/TFT_22_ILI9225/wiki"
-			},
-			"keywords": "tft,ili9225",
-			"repository": {
-				"type": "git",
-				"url": "https://github.com/Nkawu/TFT_22_ILI9225.git"
-			},
 			"platforms": [
 				{
-					"name": "TFT 22 ILI9225 (AVR)",
+					"name": "TFT 22 ILI9225",
 					"architecture": "avr",
 					"version": "1.2.3",
 					"category": "Contributed",
@@ -23,6 +15,9 @@
 					"archiveFileName": "TFT_22_ILI9225-1.2.3.zip",
 					"checksum": "SHA-256:4cb6322c445d8cf7e4144ed764e5a7c870198142d41a104192dbcf48c8f9765b",
 					"size": "453126",
+                    "help": {
+                        "online": "https://github.com/Nkawu/TFT_22_ILI9225/wiki"
+                    },
 					"boards": [],
 					"toolsDependencies": []
 				}
